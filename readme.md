@@ -18,10 +18,10 @@ The goal of the artboard split script is to convert an existing signature art fi
 	* Has setups for horizontal and vertical versions of signatures
 3. Select the horizontal signature
 4. Cut (cmd+x) the signature
-5. Make a new layer. Name it "horizontal" in all lowercase. 
-6. Paste in Place (shift+cmd+v) onto "horizontal" layer.
-7. Rename the original layer to "vertical" in all lowercase.
-8. You should end up with 2 layers named "horizontal" and "vertical" with the corresponding art on each one.
+5. Make a new layer. Name it "horiz" in all lowercase. 
+6. Paste in Place (shift+cmd+v) onto "horiz" layer.
+7. Rename the original layer to "vert" in all lowercase.
+8. You should end up with 2 layers named "horiz" and "vert" with the corresponding art on each one.
 	
 	![Screenshot](images/layers.png)
 	
