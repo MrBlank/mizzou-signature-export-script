@@ -88,7 +88,7 @@ All have black text and white text versions.
 
 ### Print 
 
-* 1C - EPS
+* 1C - EPS (white text version has rev logo)
 * 2C Coated - EPS
 * 2C Uncoated - EPS
 * 4C - EPS
@@ -99,3 +99,9 @@ All have black text and white text versions.
 * RGB - PNG
 
 All versions have transparent backgrounds. 
+
+
+# Installing scripts to the `Scripts` menu in Illustrator
+
+Place the script files in the Adobe Illustrator app folder, `Presets` > `en_US` > `Scripts`. You will need admin access to do this.
+
