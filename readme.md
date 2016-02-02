@@ -29,7 +29,7 @@ The goal of the artboard split script is to convert an existing signature art fi
 	
 	![Screenshot](images/select-script.png)
 	
-10. Open the "split-layers-to-artboards.jsx" file in the scripts folder.
+10. Open the "MUSplitLayersToArtboards.jsx" file in the scripts folder.
 	
 	![Screenshot](images/open-split.png)
 	
@@ -62,7 +62,7 @@ The goal of the export script is to take the unit signature's *source file* and 
 	
 	![Screenshot](images/select-script-2.png)
 	
-5. Open the "signature-export.jsx" file in the scripts folder.
+5. Open the "MUSignatureExport.jsx" file in the scripts folder.
 	
 	![Screenshot](images/open-export.png)
 	
